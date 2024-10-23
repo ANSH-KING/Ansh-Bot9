@@ -4,24 +4,24 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: Deepak" //ur yt chanel name
-global.socialm = "GitHub: DGDEEPAK" //ur github or insta name
+global.ytname = "YT: ANSH TECHIE" //ur yt chanel name
+global.socialm = "GitHub: ANSH-KING" //ur github or insta name
 global.location = "India, West Bengal, Darjeeling" //ur location
 
 //new
-global.botname = 'Zenitsu-Bot' //ur bot name
-global.ownernumber = ['917029257330'] //ur owner number, dont add more than one
-global.ownername = '🦄Dream Guy Deepak' //ur owner name
-global.websitex = "https://youtube.com/@dreamguydeepak"
-global.wagc = "https://whatsapp.com/channel/0029VaDEDUaC6ZvewFKv6835"
+global.botname = 'Ansh-Bot' //ur bot name
+global.ownernumber = ['48699514306'] //ur owner number, dont add more than one
+global.ownername = 'Ansh Dev🇵🇱' //ur owner name
+global.websitex = "https://youtube.com/@anshtechie"
+global.wagc = "wa.me/48699514306?text=Ansh+Dev🇵🇱"
 global.themeemoji = '🦄'
-global.wm = "Deepak Bot Inc."
-global.botscript = 'https://github.com/DGDEEPAK/Zenitsu-Bot9' //script link
-global.packname = "Zenitsu-Bot"
-global.author = "🦄Dream Guy Deepak"
-global.creator = "917029257330@s.whatsapp.net"
+global.wm = "Ansh Bot Inc."
+global.botscript = 'https://github.com/ANSH-KING/Ansh-Bot9' //script link
+global.packname = "ANSH-Bot"
+global.author = "Ansh Dev🇵🇱"
+global.creator = "48699514306@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["917029257330"] // Premium User
+global.premium = ["48699514306"] // Premium User
 
 //channel id
 global.xchannel = {
